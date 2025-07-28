@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+yfinance
+arch
+statsmodels
+schedule
+streamlit
+scikit-learn
