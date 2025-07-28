@@ -61,7 +61,7 @@ K.Ajith Varma (ajithk1503)
    cd garch-volatility-forecasting
 
 
-2.** run the application:**
+2. **run the application:**
   ```bash
-  streamlit run src/app.py
+    streamlit run src/app.py
 
