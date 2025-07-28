@@ -16,7 +16,7 @@ This project simulates a real-time financial forecasting pipeline using a GARCH 
 
 ---
 
-## App Link : [Real-Time GARCH Volatility Forecasting](www.google.com)
+### App Link : [Real-Time GARCH Volatility Forecasting](https://volatility-for-options-using-garch.streamlit.app/)
 
 ## ✅ Features
 
