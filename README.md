@@ -58,4 +58,9 @@ K.Ajith Varma (ajithk1503)
 
 
 
+## 🔧 Installation & Running Instructions
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/garch-volatility-forecasting.git
+   cd garch-volatility-forecasting
