@@ -45,11 +45,6 @@ This project simulates a real-time financial forecasting pipeline using a GARCH 
 - 📉 Compare performance with **ARIMA**, **LSTM**, and **Hybrid models**
 - 🧠 Use **Bayesian GARCH** or **EGARCH** for better modeling of asymmetries
 - 🧪 Add **backtesting module** for forecast accuracy evaluation (e.g., RMSE, MAE)
-- 🌐 Add support for **multiple assets** or **portfolio-level forecasting**
-- 🔒 Add **exception handling** and **robust error logging**
-- 📦 Package as a **Python module** for easy reuse
-- 🐳 **Dockerize** the app for deployment in containerized environments
-- ☁️ Deploy to **Streamlit Cloud** or **Heroku**
 
 ---
 
@@ -64,3 +59,9 @@ K.Ajith Varma (ajithk1503)
    ```bash
    git clone https://github.com/yourusername/garch-volatility-forecasting.git
    cd garch-volatility-forecasting
+
+
+2.** run the application:**
+  ```bash
+  streamlit run src/app.py
+
